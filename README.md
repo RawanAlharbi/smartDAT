@@ -1,1 +1,3 @@
-# smartDAT
+#smartDAT (mhealth Project)
+
+## Milestones 
